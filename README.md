@@ -9,8 +9,8 @@ To run this project locally, follow the below steps:
 
 1. Clone the repository.
 2. Navigate to the project directory.
-3. Install dependencies using `npm install` or `yarn install`.
-4. Run the development server using `npm run dev` or `yarn dev`.
+3. Install dependencies using `npm install`.
+4. Run the development server using `npm run dev`.
 5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## About the Project
