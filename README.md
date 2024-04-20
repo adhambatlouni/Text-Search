@@ -17,14 +17,14 @@ To run this project locally, follow the below steps:
 
 The project consists of several components and Redux slices:
 
-**Home Component:** Displays the main page of the application, including a search input field and a list of highlighted articles.
-**Search Input Component:** Provides an input field for entering search terms. It filters articles based on the search term and
-highlights matching parts.
-**Exit Icon Component:** Displays an SVG icon for exiting or clearing content.
-**Redux Store:** Manages the application state using Redux, including the search term and highlighted articles.
-**Search Reducer:** Defines Redux actions and reducers for updating the search term and highlighted articles.
-**Articles Dara:** Contains a collection of articles used for searching and displaying. The articles data is stored in a JSON
-object.
+- Home Component: Displays the main page of the application, including a search input field and a list of highlighted articles.
+- Search Input Component: Provides an input field for entering search terms. It filters articles based on the search term and
+  highlights matching parts.
+- Exit Icon Component: Displays an SVG icon for exiting or clearing content.
+- Redux Store: Manages the application state using Redux, including the search term and highlighted articles.
+- Search Reducer: Defines Redux actions and reducers for updating the search term and highlighted articles.
+- Articles Data: Contains a collection of articles used for searching and displaying. The articles data is stored in a JSON
+  object.
 
 ## Technologies Used
 
